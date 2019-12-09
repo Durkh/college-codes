@@ -1,0 +1,14 @@
+questão 1:
+
+a) Classe é uma estrutura na qual descreve atributos de objetos do mundo real para que objetos virtuais possam ser intanciados a partir da descrição que a classe fornece.
+    Objetos são os instanciamentos dessa classe, são representações virtuais de objetos reais e que podem ter interação com uma pessoa, possui métodos e atributos que 
+compõem seu comportamento.
+    Enquanto Classe é uma descrição de algum objeto, a classe é algo que não se pode interagir, afinal é como se fosse apenas uma receita descritiva de um objeto, já o
+objeto, que é a criação de uma instância da classe, pode interagir com outras coisas.
+    
+b) O Construtor serve para inicializar valores nos atributos de um objeto, serve para que os objetos não tenham lixo de memória, que tenham uma entrada padrão para o 
+atributo, ou para receber e setar valores na criação do objeto, ele é chamado automaticamente no momento de instanciamento do Objeto.
+
+c) Proteção, os dados ficam protegidos, evitando que qualquer pessoa possa acessar e modificar livremente;
+    Modularidade, torna os objetos da classe independentes de outros objeto, podendo ser usado livremente no sistema;
+    Simplicidade, oferecendo os métodos de get e set tornam o código mais intuitivo para que você ou outras pessoas possam utilizar do mesmo código em outros problemas.
